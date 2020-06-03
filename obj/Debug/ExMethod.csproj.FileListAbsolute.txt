@@ -1,0 +1,7 @@
+C:\Users\acer\source\repos\HW_5\ExMethod\bin\Debug\ExMethod.exe.config
+C:\Users\acer\source\repos\HW_5\ExMethod\bin\Debug\ExMethod.exe
+C:\Users\acer\source\repos\HW_5\ExMethod\bin\Debug\ExMethod.pdb
+C:\Users\acer\source\repos\HW_5\ExMethod\obj\Debug\ExMethod.csprojAssemblyReference.cache
+C:\Users\acer\source\repos\HW_5\ExMethod\obj\Debug\ExMethod.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\HW_5\ExMethod\obj\Debug\ExMethod.exe
+C:\Users\acer\source\repos\HW_5\ExMethod\obj\Debug\ExMethod.pdb
